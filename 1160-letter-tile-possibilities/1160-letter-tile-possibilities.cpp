@@ -1,20 +1,20 @@
 class Solution {
 public:
-    void dfs(string &tiles, vector<bool> &used, string current, set<string> &st) {
-        if (!current.empty()) st.insert(current);
-
-        for (int i = 0; i < tiles.length(); i++) {
-            if (used[i]) continue;
-            used[i] = true;
-            dfs(tiles, used, current + tiles[i], st);
-            used[i] = false;
+    void dfs(vector<int>& freq, int& count, int length) {
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] == 0) continue;
+            freq[i]--;
+            count++;  // Count this new sequence
+            dfs(freq, count, length);
+            freq[i]++; // Backtrack
         }
     }
 
     int numTilePossibilities(string tiles) {
-        set<string> st;
-        vector<bool> used(tiles.size(), false);
-        dfs(tiles, used, "", st);
-        return st.size();
+        vector<int> freq(26, 0);
+        for (char c : tiles) freq[c - 'A']++; // Count character frequencies
+        int count = 0;
+        dfs(freq, count, tiles.size());
+        return count;
     }
 };
