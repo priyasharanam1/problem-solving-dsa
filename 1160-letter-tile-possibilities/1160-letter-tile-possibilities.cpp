@@ -1,11 +1,11 @@
 class Solution {
 public:
-    void dfs(vector<int>& freq, int& count, int length) {
+    void dfs(vector<int>& freq, int& count) {
         for (int i = 0; i < 26; i++) {
             if (freq[i] == 0) continue;
             freq[i]--;
             count++;  // Count this new sequence
-            dfs(freq, count, length);
+            dfs(freq, count);
             freq[i]++; // Backtrack
         }
     }
@@ -14,7 +14,7 @@ public:
         vector<int> freq(26, 0);
         for (char c : tiles) freq[c - 'A']++; // Count character frequencies
         int count = 0;
-        dfs(freq, count, tiles.size());
+        dfs(freq, count);
         return count;
     }
 };
