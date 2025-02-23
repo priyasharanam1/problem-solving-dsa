@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0018-4sum) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1160-letter-tile-possibilities) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
