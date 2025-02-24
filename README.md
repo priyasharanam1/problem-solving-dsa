@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
