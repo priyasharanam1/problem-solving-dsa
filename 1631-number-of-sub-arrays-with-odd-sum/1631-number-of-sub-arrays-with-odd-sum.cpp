@@ -8,6 +8,7 @@ public:
         for(int i=0;i<n;i++){
             prefixSum+=arr[i];
             oddCnt += (prefixSum&1);
+            oddCnt %= MOD;
         }
         //oddcount += evencount*oddcount
         oddCnt += (n-oddCnt)*oddCnt;
