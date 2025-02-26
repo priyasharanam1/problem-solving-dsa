@@ -1,25 +1,17 @@
 class Solution {
 public:
-    int solveOriginal(vector<int>& nums,int n){
-        int sum=0, maxSum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
-            maxSum=max(maxSum,sum);
-            if(sum<0) sum=0;
-        }
-        return maxSum;
-    }
-    int solveNegated(vector<int>& nums,int n){
-        int sum=0, maxSum=0;
-        for(int i=0;i<n;i++){
-            sum+=nums[i]*(-1);
-            maxSum=max(maxSum,sum);
-            if(sum<0) sum=0;
-        }
-        return maxSum;
-    }
     int maxAbsoluteSum(vector<int>& nums) {
-        int n=nums.size();
-        return max(solveOriginal(nums,n), solveNegated(nums,n));
+        int n = nums.size();
+        int sum1 = 0, sum2 = 0, maxSum = 0;
+        for (int i = 0; i < n; i++) {
+            sum1 += nums[i];
+            sum2 += nums[i] * (-1);
+            maxSum = max(maxSum, max(sum1,sum2));
+            if (sum1 < 0)
+                sum1 = 0;
+            if (sum2 < 0)
+                sum2 = 0;
+        }
+        return maxSum;
     }
 };
