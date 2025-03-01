@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0018-4sum) |
+| [2551-apply-operations-to-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2551-apply-operations-to-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
