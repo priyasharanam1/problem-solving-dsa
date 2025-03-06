@@ -76,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Database
 |  |
@@ -116,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2551-apply-operations-to-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
