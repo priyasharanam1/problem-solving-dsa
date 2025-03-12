@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3483-alternating-groups-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1160-letter-tile-possibilities) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
