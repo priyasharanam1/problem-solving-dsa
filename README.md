@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
