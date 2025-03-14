@@ -1,26 +1,42 @@
 class Solution {
 public:
     int maximumCandies(vector<int>& candies, long long k) {
-        if (accumulate(candies.begin(), candies.end(), 0LL) < k) 
-            return 0;  // If total candies are less than k, return 0
+        int n = candies.size();
+        bool sumLessThanK = true;
+        //if sum of all elements is less than k
+        //it means we can't allocate equal number of candies among all
+        long long sum=0;
+        for(int i=0;i<n;i++){
+            sum += candies[i];
+            if(sum>=k) sumLessThanK=false; 
+        }
+        if(sumLessThanK) return 0;
 
-        int left = 1, right = *max_element(candies.begin(), candies.end());
-        int result = 0;
+        //find the maximum element
+        int maxi=0;
+        for(int i=0;i<n;i++){
+            maxi=max(maxi,candies[i]);
+        }
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            long long count = 0;
-
-            // Count how many children can get 'mid' candies
-            for (int c : candies) {
-                count += c / mid;
+        //apply binary search on answers from 1 to maxi
+        int left=1;
+        int right=maxi;
+        int result=0;
+        while(left<=right){
+            int mid = left+(right-left)/2;
+            long long count=0;
+            for(int i=0;i<n;i++){
+            count += candies[i]/mid;
             }
-
-            if (count >= k) { // If we can distribute to at least k children
-                result = mid;  // Store the possible answer
-                left = mid + 1; // Try for more candies per child
-            } else {
-                right = mid - 1; // Reduce candies per child
+            //an answer has been found
+            //check for greater possibilities on right
+            if(count>=k){
+                result=mid;
+                left=mid+1;
+            }
+            //else check for lesser possibility on left 
+            else{
+                right=mid-1;
             }
         }
         return result;
