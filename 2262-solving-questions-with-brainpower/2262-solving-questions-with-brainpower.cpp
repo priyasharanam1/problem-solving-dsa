@@ -1,17 +1,19 @@
 #define ll long long
 class Solution {
 public:
-    ll solve(vector<vector<int>>& questions, int i, int n, vector<ll>&dp){
-        if(i>=n) return 0;
-        if(dp[i]!=-1) return dp[i];
-
-        ll pick = questions[i][0] + solve(questions,i+questions[i][1]+1, n,dp);
-        ll notPick = solve(questions,i+1,n,dp);
-        return dp[i] = max(pick,notPick);
-    }
     long long mostPoints(vector<vector<int>>& questions) {
         int n = questions.size();
-        vector<ll>dp(n,-1);
-        return solve(questions,0,n,dp);
+        vector<ll>dp(n+1,0);
+        for(int i=n-1;i>=0;i--){
+            int points = questions[i][0];
+            int skip = questions[i][1];
+
+            ll pick = points;
+            if(i+skip+1 < n) pick += dp[i+skip+1];
+
+            ll notPick = dp[i+1];
+            dp[i] = max(pick,notPick);
+        }
+        return dp[0];
     }
 };
