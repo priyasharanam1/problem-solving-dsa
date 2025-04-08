@@ -1,16 +1,15 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        map<int,int>mpp;
+        unordered_map<int,int>mpp;
         int n = nums.size();
-        int secondLastOcc=-1;
+        // int secondLastOcc=-1; (i will storesecond last occurrence)
         for(int i=n-1;i>=0;i--){
             if(mpp.find(nums[i])!=mpp.end()){
-                secondLastOcc=i;
-                break;
+                return i/3 + 1;
             }
             mpp[nums[i]]++;
         }
-        return ceil((double)(secondLastOcc+1)/3);
+        return 0;
     }
 };
