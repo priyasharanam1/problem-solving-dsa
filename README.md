@@ -106,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
