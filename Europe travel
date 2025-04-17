@@ -1,0 +1,57 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+/*logic:-
+first take tickets and starting location as input from user
+
+then loop the list of tickets to find out the path by using next city for each current location
+
+time complexity = O(n log n)
+space complexity = O(n)
+*/
+
+int main() {
+	// your code goes here
+	int n;
+	cout<<"Enter number of tickets"<<'\n';
+	cin>>n;
+	//if the user enters 0 tickets
+	if(n==0){
+	    cout<<"No tickets provided"<<'\n';
+	    return 0;
+	}
+	map<string,string>tickets;
+	cout<<"Enter strat and destination for each ticket"<<'\n';
+	for(int i=0;i<n;i++){
+	    string start,destination;
+	    cin>>start>>destination;
+	    tickets[start]=destination;
+	}
+	string start;
+    cout<<"Enter the starting location"<<'\n';
+    cin>>start;
+    //if start is nowhere in the tickets list, path will include only the starting city
+    if(tickets.find(start)==tickets.end()){
+        cout<<"No further journey possible from "<<start<<'\n';
+        return 0;
+    }
+    string current = start;
+    unordered_set<string>citiesVisited;
+    vector<string>path;
+    while(true){
+        path.push_back(current);
+        citiesVisited.insert(current);
+        //if the current city is not the starting location for any ticket -> break
+        if(tickets.find(current) == tickets.end()) break;
+        string nextCity = tickets[current];
+        
+        //if the next city is already visited -> break to avoid cycle
+        if(citiesVisited.find(nextCity) != citiesVisited.end()) break;
+        current = nextCity;
+    }
+    cout<<"Path taken : "<<'\n';
+    for(int i=0;i<path.size();i++){
+        cout<<path[i]<<' ';
+    }
+    return 0;
+}
