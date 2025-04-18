@@ -17,8 +17,13 @@ public:
         return ans;
     }
     string countAndSay(int n) {
-        if (n == 1)
-            return "1";
-        return RLE(countAndSay(n - 1));
+        vector<string> dp(n + 1);
+        dp[1] = "1";
+
+        for (int i = 2; i <= n; i++) {
+            dp[i] = RLE(dp[i - 1]);
+        }
+
+        return dp[n];
     }
 };
