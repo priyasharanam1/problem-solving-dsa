@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0038-count-and-say) |
 | [1160-letter-tile-possibilities](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
