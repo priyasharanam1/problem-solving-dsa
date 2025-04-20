@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0039-combination-sum) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1160-letter-tile-possibilities) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2050-count-good-numbers) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
