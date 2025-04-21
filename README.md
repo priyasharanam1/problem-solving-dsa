@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2249-count-the-hidden-sequences) |
 | [3643-zero-array-transformation-ii](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
