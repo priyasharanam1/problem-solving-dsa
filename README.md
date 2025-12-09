@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0038-count-and-say) |
+| [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1170-shortest-common-supersequence) |
