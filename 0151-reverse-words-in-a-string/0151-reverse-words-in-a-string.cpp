@@ -1,52 +1,39 @@
 class Solution {
 public:
-    vector<string>v;
     string reverseWords(string s) {
-    int n = s.length();
-    string ans="";
-    int space=0;
-    for(int i=n-1;i>=0;i--){
-        if(s[i] != ' '){
-           space = 0;
-           ans+=s[i];
-        }
-        else{
-            space++;
-            if(space <= 1){
-                reverse(ans.begin(), ans.end());
-                if(ans!=""){
-                    v.push_back(ans);
+        stack<string> st;
+        string word = "";
+
+        // Phase 1: Extract words and push into stack
+        for (int i = 0; i < s.length(); i++) {
+            if (s[i] != ' ') {
+                word += s[i];
+            } else {
+                if (!word.empty()) {
+                    st.push(word);
+                    word = "";
                 }
             }
-            ans="";
         }
-    }
 
-    ans="";
-    for(int i=0;i<n;i++){
-        if(s[i]!=' '){
-            ans+=s[i];
+        // last word push (if any)
+        if (!word.empty()) {
+            st.push(word);
         }
-        else
-        break;
-    }
-    v.push_back(ans);
 
-    s="";
-    for(auto it : v){
-        for(auto i : it){
-            s+=i;
+        // Phase 2: Pop from stack and build answer
+        string ans = "";
+        while (!st.empty()) {
+            ans += st.top();
+            ans += " ";
+            st.pop();
         }
-       s+=' ';
-    }
-    int pos=0;
-    for(int i=s.length()-1;i>=0;i--){
-       if(s[i]==' ')
-       pos++;
-       else
-       break;
-    }
-    s.erase(s.end()-pos,s.end());
-    return s;
+
+        // remove last extra space
+        if (!ans.empty()) {
+            ans.pop_back();
+        }
+
+        return ans;
     }
 };
