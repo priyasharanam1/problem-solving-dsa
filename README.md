@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2280-count-good-triplets-in-an-array) |
@@ -257,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
