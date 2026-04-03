@@ -1,36 +1,30 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<string> st;
-        string word = "";
-
-        // Phase 1: Extract words and push into stack
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] != ' ') {
+        reverse(s.begin(), s.end());
+        
+        string ans = "", word = "";
+        
+        for(int i = 0; i < s.size(); i++) {
+            if(s[i] != ' ') {
                 word += s[i];
             } else {
-                if (!word.empty()) {
-                    st.push(word);
+                if(!word.empty()) {
+                    reverse(word.begin(), word.end());
+                    ans += word + " ";
                     word = "";
                 }
             }
         }
 
-        // last word push (if any)
-        if (!word.empty()) {
-            st.push(word);
+        // last word
+        if(!word.empty()) {
+            reverse(word.begin(), word.end());
+            ans += word;
         }
 
-        // Phase 2: Pop from stack and build answer
-        string ans = "";
-        while (!st.empty()) {
-            ans += st.top();
-            ans += " ";
-            st.pop();
-        }
-
-        // remove last extra space
-        if (!ans.empty()) {
+        // remove trailing space
+        if(!ans.empty() && ans.back() == ' ') {
             ans.pop_back();
         }
 
