@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0020-valid-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
