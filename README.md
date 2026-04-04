@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
