@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
