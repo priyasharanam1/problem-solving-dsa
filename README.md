@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0416-partition-equal-subset-sum) |
+| [0496-next-greater-element-i](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0496-next-greater-element-i) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
