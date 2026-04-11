@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0435-non-overlapping-intervals) |
@@ -328,5 +330,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
