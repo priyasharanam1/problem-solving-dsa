@@ -1,31 +1,27 @@
 class Solution {
 public:
-    bool f(int n, int k, vector<int> &arr) {
-    vector<bool>prev(k+1,0), cur(k+1,0);
-
-    prev[0] = cur[0] = true;
-
-    for (int i = 1; i <= n; ++i) {
-        for (int j = 1; j <= k; ++j) {
-            if (j < arr[i - 1]) {
-                cur[j] = prev[j]; // Exclude current element
-            } else {
-                cur[j] = prev[j] || prev[j - arr[i - 1]]; // Exclude or include current element
-            }
+    bool helper(vector<int>& arr, int ind, vector<vector<int>>&dp, int n, int target){
+        if(ind==0) return arr[ind]==target;
+        if(target==0) return true;
+        if(dp[ind][target]!=-1) return dp[ind][target];
+        int notPick = helper(arr,ind-1,dp,n,target);
+        int pick = false;
+        if(arr[ind]<=target){
+            pick = helper(arr,ind-1,dp,n,target-arr[ind]);
         }
-        prev = cur;
+        return dp[ind][target] = pick || notPick;
     }
-
-    return prev[k];
-}
+    
     bool canPartition(vector<int>& arr) {
-        int sum = 0;
         int n = arr.size();
-        for(int i=0;i<n;i++) sum+=arr[i];
-        if(sum % 2) return false;
-        int target = sum / 2;
-        //now we will find out whether a subset with sum = target exists or not
-        //if 1 such subset is found this means there is another such subset too
-        return f(n,target,arr);
+        int totalSum = 0;
+        for(int i=0;i<n;i++){
+            totalSum += arr[i];
+        }
+        if(totalSum & 1) return false;
+        int target = totalSum / 2;
+        //now check if target sum is possible or not
+        vector<vector<int>>dp(n+1, vector<int>(target+1, -1));
+        return helper(arr,n-1,dp,n,target);
     }
 };
