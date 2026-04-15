@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int f(int i, int target, vector<int>& a, vector<vector<int>>& dp){
-        if(i==0){
-            if(target%a[i] == 0) return target/a[i];
+    int f(vector<int>& coins, int amount, int n, vector<vector<int>>&dp){
+        if(n==0){
+            if(amount%coins[n]==0) return dp[n][amount] = amount/coins[n];
             return 1e9;
         }
-        if(dp[i][target] != -1) return dp[i][target];
-        int notpick = 0 + f(i-1,target,a,dp);
+        if(dp[n][amount]!=-1) return dp[n][amount];
         int pick = INT_MAX;
-        if(a[i]<=target) pick = 1 + f(i,target-a[i], a,dp);
-        return dp[i][target] = min(notpick,pick);
+        if(amount>=coins[n]) pick = 1 + f(coins, amount-coins[n], n, dp);
+        int notPick = f(coins, amount, n-1, dp);
+        return dp[n][amount] = min(pick, notPick);
     }
-    int coinChange(vector<int>& a, int amount) {
-        int n = a.size();
-        vector<vector<int>>dp(n, vector<int>(amount+1, -1));
-        int ans = f(n-1,amount,a,dp);
+
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        vector<vector<int>>dp(n+1, vector<int>(amount+1, -1));
+        int ans = f(coins, amount, n-1, dp);
         if(ans==1e9) return -1;
-        return ans; 
+        return ans;
     }
 };
