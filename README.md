@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -343,4 +345,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/0509-fibonacci-number) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/priyasharanam1/problem-solving-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
